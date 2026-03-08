@@ -1,0 +1,18 @@
+# Environment
+.env
+.env.*
+*.local
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Secrets
+*.pem
+*.key
+credentials.*
